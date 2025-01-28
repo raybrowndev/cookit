@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button"
-import Footer from "../src/components/ui/Footer";
-import { Heading, Heading2 } from "../src/components/ui/heading";
-import NavBar from "../src/components/ui/NavBar";
+import Footer from "../src/components/Footer";
+import { Heading, Heading2 } from "@components/heading";
+import NavBar from "@components/NavBar";
 
 
 export default function Home() {
