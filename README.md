@@ -11,6 +11,8 @@ CookIt is a Next.js recipe app that allows users to search for recipes using a r
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-6C63FF?style=for-the-badge&logo=design&logoColor=white)
 ![API](https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
 
