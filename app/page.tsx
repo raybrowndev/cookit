@@ -1,10 +1,13 @@
+
 import { Button } from "@/components/ui/button"
-import Footer from "../src/components/Footer";
+import Footer from "@/components/Footer";
 import { Heading, Heading2 } from "@components/heading";
 import NavBar from "@components/NavBar";
 
 
+
 export default function Home() {
+
   return (
     <>
     <NavBar />
@@ -18,7 +21,8 @@ export default function Home() {
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, accusamus nemo. Praesentium repellat aliquam nostrum nihil, a molestiae, dolores quo labore tenetur, magni eaque commodi voluptatibus perspiciatis quod. Dignissimos, quisquam.</p>
           <Button>Click Here</Button>
         </div>
-        
+
+         
       </main>
       
     </div>
