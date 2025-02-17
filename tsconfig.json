@@ -24,15 +24,9 @@
       }
     ],
     "paths": {
-      "@/*": [
-        "./src/*"
-      ],
-      "@components/*": [
-        "./src/components/*"
-      ], // Example of aliasing
-      "@public/*": [
-        "./public/*"
-      ]
+      "@/*": ["./src/*"],
+      "@components/*": ["./src/components/*"], 
+      "@public/*": ["./public/*"]
     }
   },
   "include": [

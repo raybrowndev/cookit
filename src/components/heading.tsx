@@ -6,7 +6,7 @@ interface HeadingProps {
   className?: string;
 }
 
-const Heading: React.FC<HeadingProps> = ({ children, variant = "dark", className = "" }) => {
+const Heading1: React.FC<HeadingProps> = ({ children, variant = "dark", className = "" }) => {
   const baseStyles = "text-3xl font-bold sm:truncate sm:text-4xl sm:tracking-tight";
   const variantStyles = variant === "dark" ? "text-gray-900" : "text-gray-200";
   return (
@@ -36,4 +36,4 @@ const Heading3: React.FC<HeadingProps> = ({ children, variant = "dark", classNam
   );
 };
 
-export { Heading, Heading2, Heading3 };
+export { Heading1, Heading2, Heading3 };

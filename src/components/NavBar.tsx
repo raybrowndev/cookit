@@ -1,5 +1,5 @@
 import React from 'react'
-import { Heading2 } from './heading';
+import { Heading2 } from './Heading';
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 
    
@@ -17,7 +17,7 @@ function NavBar() {
           <Avatar>
             <AvatarImage
               className="items-start"
-              src="https://raybrown.dev/wp-content/uploads/2024/07/ray_brown_headshot.jpg"
+              src="/user1.png"
             />
             <AvatarFallback>RB</AvatarFallback>
           </Avatar>

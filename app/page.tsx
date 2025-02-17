@@ -1,7 +1,7 @@
 
 import { Button } from "@/components/ui/button"
 import Footer from "@/components/Footer";
-import { Heading, Heading2 } from "@components/heading";
+import { Heading1, Heading2 } from "@/components/Heading";
 import NavBar from "@components/NavBar";
 
 
@@ -17,9 +17,10 @@ export default function Home() {
     <main className="items-center sm:items-start text-center">
 
       <div className="px-12 py-6 space-y-8"> 
-        <Heading>This is a heading</Heading>
+        <Heading1>This is a heading</Heading1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, accusamus nemo. Praesentium repellat aliquam nostrum nihil, a molestiae, dolores quo labore tenetur, magni eaque commodi voluptatibus perspiciatis quod. Dignissimos, quisquam.</p>
         <Button>Click Here</Button>
+        <Heading2>This is an H2</Heading2>
       </div>
 
     </main>
