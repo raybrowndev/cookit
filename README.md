@@ -4,6 +4,9 @@ CookIt is a Next.js recipe app that allows users to search for recipes using a r
 
 ---
 
+![screenshot of version 1 application](public/version1.png)
+
+
 ## 🛠️ Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -20,23 +23,16 @@ CookIt is a Next.js recipe app that allows users to search for recipes using a r
 
 ## ✨ Features
 
-- 🔍 **Search Recipes:** Find recipes based on ingredients, cuisine, or keywords through an integrated API.
-- 🍴 **Cuisine Filters:** Narrow down search results by filtering recipes according to cuisine types.
-- 📃 **Recipe Details:** View detailed information about each recipe, including ingredients, preparation steps, and cook time.
-- 📑 **Save Favourites:** Bookmark recipes for easy access later.
-- 💻 **Responsive Design:** Fully responsive UI to provide a seamless experience across devices.
-- 🎨 **Theme Customisation:** Choose between light and dark themes using Tailwind's theme switcher.
-- ⚡ **Optimised Performance:** Leveraging Next.js for server-side rendering (SSR) and static site generation (SSG).
-- 🛠️ **Reusable Components:** Built with `shadcn/ui` to ensure a consistent and modular design system.
+- **Search Recipes:** Find recipes based on ingredients, cuisine, or keywords through an integrated API.
+- **Cuisine Filters:** Narrow down search results by filtering recipes according to cuisine types.
+- **Recipe Details:** View detailed information about each recipe, including ingredients, preparation steps, and cook time.
+- **Save Favourites:** Bookmark recipes for easy access later.
+- **Responsive Design:** Fully responsive UI to provide a seamless experience across devices.
+- **Theme Customisation:** Choose between light and dark themes using Tailwind's theme switcher.
+- **Optimised Performance:** Leveraging Next.js for server-side rendering (SSR) and static site generation (SSG).
+- **Reusable Components:** Built with `shadcn/ui` to ensure a consistent and modular design system.
 
 ---
-
-## 🚀 Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/cookit.git
-   cd cookit-next
 
 <!-- ## Deploy on Vercel
 
