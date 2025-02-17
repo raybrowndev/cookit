@@ -13,11 +13,7 @@
     "testEnvironment": "jest-environment-jsdom",
     "transform": {
       "^.+\\.(jest.config.js|js|jsx|ts|tsx)$": "babel-jest"
-    },
-    "transformIgnorePatterns": [
-      "node_modules/(?!variables/.*)"
-    ]
-
+    }
   },
   "dependencies": {
     "@radix-ui/react-avatar": "^1.1.2",
