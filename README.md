@@ -4,8 +4,6 @@ CookIt is a Next.js recipe app that allows users to search for recipes using a r
 
 ---
 
-![screenshot of version 1 application](public/version1.png)
-
 
 ## 🛠️ Tech Stack
 
@@ -20,6 +18,7 @@ CookIt is a Next.js recipe app that allows users to search for recipes using a r
 ![API](https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
 
 ---
+<img src="public/version1.png" alt="Cuisine App Screenshot" width="500"/>
 
 ## ✨ Features
 
